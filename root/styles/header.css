@@ -1,0 +1,14 @@
+header {
+    align-items: center;
+    height: 5vh;
+    justify-content: space-between;
+    padding: 7%;
+    flex-direction: row;
+    width: 1044px;
+  }
+  header img {
+    width: 27%;
+  }
+  .headerimg {
+    width: 43px;
+  }
